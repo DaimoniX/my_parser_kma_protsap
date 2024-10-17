@@ -1,0 +1,12 @@
+[package]
+name = "my_parser_kma_protsap"
+version = "0.1.0"
+edition = "2021"
+readme = "README.md"
+keywords = ["my_parser", "ukma", "kma"]
+description = "Description of my parser"
+license = "MIT"
+repository = "https://github.com/DaimoniX/my_parser_kma_protsap"
+
+[dependencies]
+peg = "0.8.4"
